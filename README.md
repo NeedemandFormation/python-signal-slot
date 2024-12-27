@@ -1,6 +1,6 @@
 # Signal et Slot
 
-Exemple 1 
+Evenement dans une interface de type desktop
 
 ## Les signaux (Signals) :
 
